@@ -1,8 +1,10 @@
 PROTON LAUNCH OPTIONS
 
-Add your own username:
+Add your own USERNAME
+```http
+  PROTON_REMOTE_DEBUG_CMD="/home/joe/.steam/steam/steamapps/LM/LM.exe" %command%
+```
 
-''PROTON_REMOTE_DEBUG_CMD="/home/USERNAME/.steam/steam/steamapps/LM/LM.exe" %command%''
 
 
 # What does Lost Moko do?
