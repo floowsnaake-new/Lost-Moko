@@ -1,3 +1,10 @@
+PROTON LAUNCH OPTIONS
+
+Add your own username:
+
+''PROTON_REMOTE_DEBUG_CMD="/home/USERNAME/.steam/steam/steamapps/LM/LM.exe" %command%''
+
+
 # What does Lost Moko do?
 This is a memory scanner and editor for the game Lost Ark. It lets you:
 
