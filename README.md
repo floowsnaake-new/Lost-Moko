@@ -1,4 +1,4 @@
-# Lost-Moko (LM)
+# Lost Moko (LM)
 Bot for the game Lost Ark called Lost Moko or LM for short.
 
 I am working on developing an bot for the game Lost Ark in C, utilizing C programming language on a Linux platform while its running in Proton. My goal is to create a program that can interact with the game environment, analyze game states, and make intelligent decisions to navigate through levels, avoid obstacles, or achieve specific objectives within the game.
