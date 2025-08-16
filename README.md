@@ -1,7 +1,7 @@
 What does this program do?
 This is a memory scanner and editor for the game Lost Ark. It lets you:
 
-Attach to the Lost Ark game process.
+#Attach to the Lost Ark game process.
 Scan the game’s memory for specific values (like health, gold, or other in-game numbers).
 Edit those values (cheat by changing them).
 Save or copy memory addresses for later use.
